@@ -3,14 +3,8 @@
 </div>
 
 
-<p align="center">
-   ∧,,,∧
-</p>
-<p align="center">
-(  ̳• · • ̳)
-</p>
  <h3 align="center">
-/    づ♡  Hi , Im Lilly 
+♡  Hi , Im Lilly 
 </h3>
 
 <p align="center">
