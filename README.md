@@ -1,14 +1,15 @@
 <div align='center'>
- <image src="https://media.tenor.com/fRwU2Z3GKtgAAAAM/busy-working.gif" width="240" height="230" >
+ <image src="https://media.tenor.com/fRwU2Z3GKtgAAAAM/busy-working.gif" width="240" height="330" >
 </div>
 
-<h3 align="center">
+
  <h3 align="center">
    ∧,,,∧
 </h3>
  <h3 align="center">
 (  ̳• · • ̳)
 </h3>
+ <h3 align="center">
 /    づ♡  Hi , Im Lilly 
 </h3>
 
