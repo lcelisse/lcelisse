@@ -3,12 +3,12 @@
 </div>
 
 
- <h3 align="center">
+<p align="center">
    ∧,,,∧
-</h3>
- <h3 align="center">
+</p>
+<p align="center">
 (  ̳• · • ̳)
-</h3>
+</p>
  <h3 align="center">
 /    づ♡  Hi , Im Lilly 
 </h3>
