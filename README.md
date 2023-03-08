@@ -1,5 +1,5 @@
 <div align='center'>
- <image src="[https://i.giphy.com/media/PoEDSg4boyn6OjnN1B/giphy.webp](https://media.tenor.com/fRwU2Z3GKtgAAAAM/busy-working.gif)" width="240" height="130" >
+ <image src="https://i.giphy.com/media/PoEDSg4boyn6OjnN1B/giphy.webp](https://media.tenor.com/fRwU2Z3GKtgAAAAM/busy-working.gif)" width="240" height="130" >
 </div>
 
 <h3 align="center">
