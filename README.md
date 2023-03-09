@@ -20,7 +20,7 @@
 
 
 ## Let's Get Connected!
-<a href="[https://www.linkedin.com/in/kpmai20/](https://www.linkedin.com/in/lillyann-h-55684b249/)" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="[https://angel.co/u/kat-mai](https://angel.co/u/lilly-hidalgo)" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lillyann-h-55684b249/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/lilly-hidalgo" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)</a>
 
  
