@@ -14,7 +14,7 @@
   
 ╰┈➤ My name is Lillyann Hidalgo and I'm currently learning GraphQL
 
-╰┈➤ During my free time I love to play video games, watch anime, spend time with family and my cat Teemo, and code.
+╰┈➤ During my free time I love to play video games, watch anime, spend time with family and my cat Teemo, and coding.
 
 ╰┈➤ Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express 
 
