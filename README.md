@@ -12,9 +12,9 @@
 <p>
 
   
-╰┈➤ My name is Lillyann Hidalgo and I'm currently learning GraphQL and making changes to my projects as well as working on a new project.
+╰┈➤ My name is Lillyann Hidalgo and I'm currently learning GraphQL and working on my projects.
 
-╰┈➤ During my free time I love to play video games, watch anime, spend time with family and my cat Teemo, and coding.
+╰┈➤ During my free time I love to play video games, watch anime, code, and play with my cat.
 
 ╰┈➤ Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express 
 
