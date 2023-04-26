@@ -12,7 +12,7 @@
 <p>
 
   
-╰┈➤ My name is Lillyann Hidalgo and I'm currently learning GraphQL and working on my projects.
+╰┈➤ My name is Lillyann Hidalgo and I'm currently learning GraphQL, prisma, and apollo.
 
 ╰┈➤ During my free time I love to play video games, watch anime, code, and play with my cat.
 
