@@ -12,7 +12,7 @@
 <p>
 
   
-╰┈➤ My name is Lillyann Hidalgo and I'm currently working on [Jellyfish](https://taupe-smakager-31c7ac.netlify.app/) ! Try it out !
+╰┈➤ My name is Lillyann Hidalgo and I'm currently working on [Jellyfish](https://jellyfishing.netlify.app/) ! Try it out !
 
 ╰┈➤ During my free time I love to play video games, watch anime, code, and play with my cat.
 
