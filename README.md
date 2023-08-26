@@ -16,7 +16,7 @@
 
 ╰┈➤ During my free time I love to play video games, watch anime, code, and play with my cat.
 
-╰┈➤ Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express 
+╰┈➤ Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express | Typescript
 
 
 ## Let's Get Connected!
