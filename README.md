@@ -12,11 +12,11 @@
 <p>
 
   
-╰┈➤ My name is Lillyann Hidalgo and I'm currently working on [Jellyfish](https://jellyfishing.netlify.app/) ! Try it out !
+ My name is Lillyann Hidalgo and I'm currently Updating [Yourbnb](https://your-bnb-5nsd.onrender.com/). Feel free to try it out.
 
-╰┈➤ During my free time I love to play video games, watch anime, code, and play with my cat.
+ During my free time I love to play video games, watch anime, code, and play with my cat.
 
-╰┈➤ Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express | Typescript
+Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express | Typescript
 
 
 ## Let's Get Connected!
