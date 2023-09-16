@@ -3,8 +3,7 @@
 </div>
 
 
- <h3 align="center">
-♡  Hi , Im Lilly 
+ <h3 align="center">  Hi , Im Lilly 
 </h3>
 
 <p align="center">
