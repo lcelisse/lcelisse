@@ -15,7 +15,7 @@
 
  My hobbies consist of watching anime , I like to play pc games and switch games, I love to code and learn more about different technologiess, more than anything I love to hang out with my cat.
 
-Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express | Typescript
+Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express 
 
 
 ## Let's Get Connected!
