@@ -13,7 +13,7 @@
   
  My name is Lillyann Hidalgo and I'm currently working on sharpening my skills and updating [Yourbnb](https://your-bnb-5nsd.onrender.com/). Feel free to try it out.
 
- My hobbies consist of watching anime: classroom of the elite season 2, reading: A court of thorns and roses, gaming: valorant| overwatch | animal crossing | palia | sims4 , painting and making art, more than anything I love to hang out with my cat.
+ My hobbies consist of watching anime: classroom of the elite season 2, reading: A court of thorns and roses, gaming: valorant, overwatch, animal crossing, palia, sims4 , painting and making art, more than anything I love to hang out with my cat.
 
 Skills : Python | JavaScript | Flask | React | Redux | SQL | HTML | CSS | SQLAlchemy | Express 
 
